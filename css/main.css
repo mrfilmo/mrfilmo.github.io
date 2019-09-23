@@ -168,7 +168,7 @@ input.input100 {
   right: 12px;
   pointer-events: none;
 
-  font-family: Poppins-Regular;
+  font-family: IRANSans;
   color: #c80000;
   font-size: 14px;
   line-height: 1.4;
@@ -227,7 +227,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
 .s1-txt1 {
-  font-family: Poppins-Regular;
+  font-family: IRANSans;
   font-size: 15px;
   color: #fff;
   line-height: 1.2;
@@ -239,14 +239,14 @@ input.input100 {
 
 /*---------------------------------------------*/
 .m2-txt1 {
-  font-family: PlayfairDisplay-Regular;
+  font-family: IRANSans;
   font-size: 25px;
   color: #fff;
   line-height: 1.2;
 }
 
 .m2-txt2 {
-  font-family: PlayfairDisplay-Italic;
+  font-family: IRANSans;
   font-size: 18px;
   color: #fff;
   line-height: 1;
@@ -255,7 +255,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Poppins-Bold;
+  font-family: IRANSans;
   font-size: 48px;
   color: #fff;
   line-height: 1.2;
@@ -263,7 +263,7 @@ input.input100 {
 }
 
 .l1-txt2 {
-  font-family: Poppins-Light;
+  font-family: IRANSans;
   font-size: 70px;
   color: #fff;
   line-height: 1;
